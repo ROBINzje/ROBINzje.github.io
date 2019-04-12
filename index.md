@@ -1,7 +1,7 @@
 ## Hello!
 
-I am Robin, an undergraduate of bioinformatics in Zhejiang University & University of Edinburgh.
+I am Robin, an undergraduate of bioinformatics in ZJU-UoE Institute of Zhejiang University.
 
-I like interesting codes.
+I like Pokemon, Debussy's music and interesting codes.
 
-This is my GitHub repository for IBI1 2018/19 at ZJU/UoE
+
